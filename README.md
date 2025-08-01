@@ -93,7 +93,6 @@ R. Jha College, Sitamarhi
 
 ![Irfan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Irfan-Ansari-stm&show_icons=true&theme=react&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Irfan-Ansari-stm&layout=compact&theme=react&hide_border=true)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Irfan-Ansari-stm&theme=react&hide_border=true)
 
