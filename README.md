@@ -5,7 +5,6 @@ Software Developer | AI/ML Enthusiast | Full Stack Engineer
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/contact-2-irfan-ansari)  
 [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/Irfan-Ansari-stm)  
 📫 irfanansaristm2000@gmail.com  
-📱 +91 7492001558  
 
 
 
